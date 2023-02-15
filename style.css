@@ -65,7 +65,7 @@ img {
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	position: fixed;
+	position: absolute;
 	background-color: var(--neon-green);
 	width: 4rem;
 	height: 4rem;
@@ -84,7 +84,6 @@ img {
 }
 
 .footer {
-	position: relative;
 	margin: 5rem 1rem;
 	text-align: center;
 	padding: 1.5rem;
